@@ -1,5 +1,5 @@
 # MirimTechTalkHackathon
-github API를 이용한 github user info 앱
+github API를 이용한 Github 사용자 검색 앱
 <br>
 <br>
 <br>
