@@ -1,13 +1,12 @@
 # MirimTechTalkHackathon
 github API를 이용한 github user info 앱
-
 <br>
 <br>
 <br>
- ### 실행화면
+### 실행화면
  <img src="prototype/prototype01.jpg" width="200">    <img src="prototype/prototype02.jpg" width="200">     <img src="prototype/prototype03.jpg" width="200">
  
- ### 코드
+### 코드
  ```java
  public interface ProfileRemoteService {
 
