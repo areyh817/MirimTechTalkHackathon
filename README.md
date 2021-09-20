@@ -1,5 +1,5 @@
 # MirimTechTalkHackathon
-github API를 이용한 Github 사용자 검색 앱
+github API를 이용한 Github 사용자 검색 앱 :octocat:
 <br>
 <br>
 <br>
