@@ -82,4 +82,5 @@ baseUrl을 통해"https://api.github.com/"에 접속을 한다.
 - https://kumgo1d.tistory.com/21
 
 ### 사용기술
-* Android Studio
+* Android Studio 
+* Java
